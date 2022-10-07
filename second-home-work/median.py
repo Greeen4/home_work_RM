@@ -16,3 +16,4 @@ class MedianFinder():
             return self.lst[self.len_lst // 2]
 
         return (self.lst[self.len_lst // 2] + self.lst[self.len_lst // 2 - 1]) / 2
+
